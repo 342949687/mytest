@@ -1,0 +1,9 @@
+所有用到的第三方依赖工具，都需要在这个文件里列出
+
+MQTTNet：
+	https://github.com/dotnet/MQTTnet
+	用于大厅前后端通讯
+
+ProtoBuf: 
+	https://github.com/protocolbuffers/protobuf
+	用于大厅前后端通讯，MQTT的通讯协议使用ProtoBuf
